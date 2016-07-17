@@ -1,0 +1,1 @@
+docker import https://downloads.openwrt.org/snapshots/trunk/x86/64/openwrt-x86-64-generic-rootfs.tar.gz mrinus/openwrt-x86-64-generic-rootfs:latest --change "CMD \"/bin/sh\""
